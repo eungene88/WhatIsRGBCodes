@@ -1,0 +1,14 @@
+C:\projects\WhatIsRGBCodes\bin\Debug\WhatIsRGBCodes.exe.config
+C:\projects\WhatIsRGBCodes\bin\Debug\WhatIsRGBCodes.exe
+C:\projects\WhatIsRGBCodes\bin\Debug\WhatIsRGBCodes.pdb
+C:\projects\WhatIsRGBCodes\obj\Debug\WhatIsRGBCodes.csprojResolveAssemblyReference.cache
+C:\projects\WhatIsRGBCodes\obj\Debug\MainWindow.g.cs
+C:\projects\WhatIsRGBCodes\obj\Debug\App.g.cs
+C:\projects\WhatIsRGBCodes\obj\Debug\WhatIsRGBCodes_MarkupCompile.cache
+C:\projects\WhatIsRGBCodes\obj\Debug\WhatIsRGBCodes_MarkupCompile.lref
+C:\projects\WhatIsRGBCodes\obj\Debug\MainWindow.baml
+C:\projects\WhatIsRGBCodes\obj\Debug\WhatIsRGBCodes.g.resources
+C:\projects\WhatIsRGBCodes\obj\Debug\WhatIsRGBCodes.Properties.Resources.resources
+C:\projects\WhatIsRGBCodes\obj\Debug\WhatIsRGBCodes.csproj.GenerateResource.Cache
+C:\projects\WhatIsRGBCodes\obj\Debug\WhatIsRGBCodes.exe
+C:\projects\WhatIsRGBCodes\obj\Debug\WhatIsRGBCodes.pdb

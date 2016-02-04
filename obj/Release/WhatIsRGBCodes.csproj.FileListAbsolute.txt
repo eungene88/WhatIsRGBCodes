@@ -1,0 +1,13 @@
+C:\projects\WhatIsRGBCodes\bin\Release\WhatIsRGBCodes.exe.config
+C:\projects\WhatIsRGBCodes\bin\Release\WhatIsRGBCodes.exe
+C:\projects\WhatIsRGBCodes\bin\Release\WhatIsRGBCodes.pdb
+C:\projects\WhatIsRGBCodes\obj\Release\MainWindow.g.cs
+C:\projects\WhatIsRGBCodes\obj\Release\App.g.cs
+C:\projects\WhatIsRGBCodes\obj\Release\WhatIsRGBCodes_MarkupCompile.cache
+C:\projects\WhatIsRGBCodes\obj\Release\WhatIsRGBCodes_MarkupCompile.lref
+C:\projects\WhatIsRGBCodes\obj\Release\MainWindow.baml
+C:\projects\WhatIsRGBCodes\obj\Release\WhatIsRGBCodes.g.resources
+C:\projects\WhatIsRGBCodes\obj\Release\WhatIsRGBCodes.Properties.Resources.resources
+C:\projects\WhatIsRGBCodes\obj\Release\WhatIsRGBCodes.csproj.GenerateResource.Cache
+C:\projects\WhatIsRGBCodes\obj\Release\WhatIsRGBCodes.exe
+C:\projects\WhatIsRGBCodes\obj\Release\WhatIsRGBCodes.pdb
